@@ -1,4 +1,32 @@
-RX
-hhfdjnda
-bhjkjd
-bhbhjd
+Create one directory ( Mkdir Mahesh )
+go inside a folder ( CD Mahesh )
+
+
+Git config command
+....................
+
+git config --global user.name "MaheshN"              //To set user name 
+git config --global user.email "MaheshN@gmail.com"   //To set mail id
+
+Git Init command
+.................
+Git init     // Initiate the folder
+git init Mahesh   //its creates empty folder and intiate a folder
+
+
+touch file1.txt      //create a empty file 
+touch file2.txt
+
+Git add command
+................
+git add file1.txt     //This command is used to add one file to staging (Index) area.
+git add .             //This command is used to add one or more files to staging (Index) area.
+
+
+Git commit command
+....................
+git commit -m "Commit Message"    
+
+
+
+
